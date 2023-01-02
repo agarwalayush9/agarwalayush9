@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Agarwal</h1>
 <h3 align="center">A passionate learner and a developer from India</h3>
-<img align="right" alt="Code" width="400" src="https://giphy.com/gifs/code-security-binary-7FrOU9tPbgAZtxV5mb/fullscreen">
+<img align="right" alt="Code" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
 
 - 🌱 I’m currently learning **Blockchain technology**
 
