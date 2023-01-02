@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Agarwal</h1>
 <h3 align="center">A passionate learner and a developer from India</h3>
-<img align="right" alt="Code" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif](https://giphy.com/gifs/code-security-binary-7FrOU9tPbgAZtxV5mb/fullscreen](https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
+<img align="right" alt="Code" width="400" src="https://giphy.com/gifs/code-security-binary-7FrOU9tPbgAZtxV5mb/fullscreen">
 
 - 🌱 I’m currently learning **Blockchain technology**
 
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayush-agarwal52" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" alt="ayush-agarwal52" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayush-agarwal52" target="blank"><img align="center" src="https://as2.ftcdn.net/v2/jpg/03/96/56/19/1000_F_396561934_t1OwjMZHrVY211bHA5uUEAix0F1SyLci.jpg" alt="ayush-agarwal52" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
