@@ -2,7 +2,6 @@
 <h3 align="center">A passionate learner and a developer from India</h3>
 <img align="right" alt="Code" width="400" src="https://geeksnomads.com/wp-content/uploads/2022/01/Geek-Nomads-Technology-Services.gif">
 
-- 🌱 I’m currently learning **Blockchain technology**
 
 - 👨‍💻 My Portfolio Link [https://agarwalayush9.github.io/](https://agarwalayush9.github.io/)
 
