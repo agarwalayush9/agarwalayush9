@@ -6,7 +6,7 @@
 
 - 👨‍💻 My Portfolio Link [https://agarwalayush9.github.io/](https://agarwalayush9.github.io/)
 
-- 📫 How to reach me **ayushag.cse@gmail.com**
+- 📫 My Email Id **ayushag.cse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
