@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayush-agarwal52" target="blank" rel="nofollow noreferrer"><img align="center" src="https://i.stack.imgur.com/gVE0j.png" /></a>
+<a href="https://linkedin.com/in/ayush-agarwal52" target="blank" rel="nofollow noreferrer"><img align="center" src="https://i.stack.imgur.com/gVE0j.png" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
