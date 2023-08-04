@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Agarwal</h1>
 <h3 align="center">A passionate learner and a developer from India</h3>
-<img align="right" alt="Code" width="400" src="https://geeksnomads.com/wp-content/uploads/2022/01/Geek-Nomads-Technology-Services.gif">
+<img align="right" alt="Code" width="400" src="https://i.pinimg.com/originals/61/c3/6e/61c36e236bdcc77ab100077492bcea1b.gif">
 
 
 <!-- - 👨‍💻 My Portfolio Link [https://agarwalayush9.github.io/](https://agarwalayush9.github.io/) -->
