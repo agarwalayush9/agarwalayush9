@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Agarwal</h1>
 <h3 align="center">A passionate learner and a developer from India</h3>
 <img align="right" alt="Code" width="400" src="https://i.gifer.com/IuNL.gif">
-<iframe src="https://gifer.com/embed/IuNL" width=480 height=270.400 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
-
+<iframe src="https://gifer.com/embed/IuNL" width=480 height=270.400 frameBorder="0" allowFullScreen></iframe><p>
 <!-- - 👨‍💻 My Portfolio Link [https://agarwalayush9.github.io/](https://agarwalayush9.github.io/) -->
 
 - 📫 My Email Id **ayushag.cse@gmail.com**
