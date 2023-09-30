@@ -8,7 +8,7 @@
 - 📫 My Email Id **ayushag.cse@gmail.com**
 - &#128279; Portfolio **https://ayushag.vercel.app/**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social profiles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayush-agarwal52" target="blank" rel="nofollow noreferrer"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35" height="35"/></a>&nbsp; <a href="https://medium.com/@ayushag.cse" target="blank" rel="nofollow noreferrer"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="35" height="35"/></a>
 </p>
