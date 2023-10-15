@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Agarwal</h1>
-<h3 align="center">A passionate learner and a developer from India</h3>
+<h3 align="center">A passionate learner and a developer</h3>
 
 <img align="right" alt="Code" width="400" height="300" src="https://indoanalytica.com/static/images/web-development-1.gif">
 
